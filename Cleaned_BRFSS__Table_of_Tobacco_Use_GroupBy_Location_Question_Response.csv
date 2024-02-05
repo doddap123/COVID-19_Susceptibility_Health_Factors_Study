@@ -1,0 +1,483 @@
+locationdesc,question,response,data_value,confidence_limit_average,sample_size
+Alabama,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.5555078125,77.55394531249999,356460
+Alabama,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.868489795918368,22.868489795918364,76700
+Alabama,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.697551020408163,3.699591836734694,8588
+Alabama,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.98504761904762,93.94800000000001,322401
+Alabama,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.669179104477612,2.6699253731343284,5794
+Alabama,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.375183673469387,23.374367346938776,115385
+Alabama,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,54.5832421875,54.583242187500005,240917
+Alabama,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.129353448275864,16.12913793103448,54099
+Alabama,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.387706422018349,6.388165137614679,22189
+Alaska,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.7255859375,77.72734375,192289
+Alaska,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.884957983193278,22.886638655462185,42452
+Alaska,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.093267326732674,4.094257425742574,5330
+Alaska,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.1918396226415,93.14235849056604,178509
+Alaska,"Do you currently use chewing tobacco, snuff, or snus?",Some days,3.561216216216216,3.563918918918919,3006
+Alaska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,26.171958333333336,26.173000000000002,69799
+Alaska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,52.453984375,52.4557421875,122299
+Alaska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.334869565217392,16.335521739130435,30240
+Alaska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.733262032085561,6.7378074866310165,11363
+Arizona,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,83.62624535315985,83.62615241635689,506285
+Arizona,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,16.622519685039368,16.62251968503937,78433
+Arizona,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.5205208333333333,1.5220833333333335,5472
+Arizona,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.86461883408073,96.82634529147981,494501
+Arizona,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.6998058252427186,1.7036893203883494,4850
+Arizona,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.71650190114068,24.716311787072243,182565
+Arizona,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,59.214646840148696,59.21520446096655,323613
+Arizona,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.808166666666667,10.805250000000001,54003
+Arizona,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.780521739130434,5.780521739130435,23897
+Arkansas,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,75.31750972762646,75.31677042801556,264600
+Arkansas,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,25.09182186234818,25.088987854251013,56165
+Arkansas,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.69391304347826,4.693043478260869,6103
+Arkansas,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.56668246445497,93.53097156398104,253484
+Arkansas,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.4582258064516127,2.4574193548387098,2638
+Arkansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.364194915254238,24.366737288135596,95752
+Arkansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,51.9822265625,51.9830078125,168490
+Arkansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,18.522347826086957,18.522347826086957,40658
+Arkansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.726941747572815,6.724757281553398,14817
+California,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,87.70507462686567,87.70339552238806,600819
+California,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,12.320795454545454,12.321931818181818,73724
+California,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.0513333333333332,1.0488333333333333,2318
+California,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.2889592760181,98.27328054298643,474446
+California,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.177710843373494,1.1783132530120481,3175
+California,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,22.39071161048689,22.388651685393256,177170
+California,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,65.31164179104478,65.31220149253731,423639
+California,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,7.5803952569169955,7.580592885375493,46234
+California,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.755274261603375,4.756118143459916,27043
+Colorado,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,82.61773234200743,82.61791821561337,615483
+Colorado,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,17.528390804597702,17.527816091954023,93585
+Colorado,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.2795652173913044,2.279927536231884,9919
+Colorado,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.21762331838565,96.16818385650224,546228
+Colorado,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.9620422535211268,1.9634507042253522,7019
+Colorado,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.030297397769516,25.028624535315988,211897
+Colorado,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.58855018587361,57.587992565055764,403586
+Colorado,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.792569169960474,11.793359683794467,63780
+Colorado,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.826371308016877,5.827637130801688,29496
+Connecticut,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,84.52517110266159,84.52749049429657,499170
+Connecticut,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,15.727171314741035,15.726972111553787,66648
+Connecticut,"Do you currently use chewing tobacco, snuff, or snus?",Every day,0.750909090909091,0.7493939393939395,1083
+Connecticut,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.24266055045872,98.20110091743119,472450
+Connecticut,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.149344262295082,1.1518032786885246,2242
+Connecticut,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.950347490347493,24.95034749034749,181768
+Connecticut,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,59.81539923954373,59.816349809885935,317344
+Connecticut,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.61109243697479,10.612142857142857,45237
+Connecticut,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.176960352422908,5.178061674008811,21000
+Delaware,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.1858431372549,81.17566666666667,228946
+Delaware,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.40448559670782,19.40283950617284,42499
+Delaware,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.3451612903225807,1.3483870967741935,936
+Delaware,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.6078947368421,97.5583014354067,210341
+Delaware,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.6439473684210526,1.6452631578947368,1254
+Delaware,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.935252100840337,24.934201680672267,81861
+Delaware,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.070235294117644,57.07337254901961,146875
+Delaware,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,13.80995652173913,13.812565217391304,30311
+Delaware,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.7587254901960785,5.757009803921569,11561
+District of Columbia,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,82.60523255813953,82.60032945736434,206725
+District of Columbia,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.23548672566372,18.234601769911503,30452
+District of Columbia,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.33830188679246,98.22202830188678,188938
+District of Columbia,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.23,1.2355555555555555,222
+District of Columbia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,20.567260869565217,20.566173913043478,63487
+District of Columbia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,63.23348837209302,63.233682170542636,142938
+District of Columbia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.743567839195979,10.743819095477386,17201
+District of Columbia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,7.41041884816754,7.411727748691099,12447
+Florida,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,82.73561983471075,82.735826446281,823591
+Florida,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,17.47194805194805,17.472380952380952,158787
+Florida,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.4186,1.4161,13060
+Florida,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.2741836734694,97.22795918367348,842385
+Florida,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.481919191919192,1.483939393939394,10672
+Florida,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.241666666666667,25.239102564102563,315390
+Florida,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.81913223140496,57.820165289256195,507974
+Florida,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.670486725663718,11.671814159292035,113731
+Florida,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.6784507042253525,5.676807511737089,44577
+Georgia,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.52056818181818,81.51857954545454,376395
+Georgia,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.83352,18.83532,67420
+Georgia,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.534873949579832,2.53781512605042,5846
+Georgia,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.77669724770642,95.74383027522936,340203
+Georgia,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.9700847457627118,1.9722033898305087,5129
+Georgia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,21.04243027888446,21.04302788844622,114134
+Georgia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,60.85257575757576,60.853143939393945,262088
+Georgia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,12.679872340425533,12.681574468085106,46068
+Georgia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.060973451327434,6.063185840707964,20891
+Guam,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,75.21535714285714,75.2115873015873,92880
+Guam,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,25.31396694214876,25.315826446280994,24969
+Guam,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.352307692307693,4.351025641025641,1295
+Guam,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,92.7223076923077,92.70322115384616,90230
+Guam,"Do you currently use chewing tobacco, snuff, or snus?",Some days,5.374418604651162,5.3674418604651155,1508
+Guam,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,18.231818181818184,18.230991735537188,21963
+Guam,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.2088492063492,57.20825396825396,70762
+Guam,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,18.051106194690266,18.050442477876107,17326
+Guam,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,7.974353741496599,7.972312925170068,6141
+Hawaii,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,85.19054054054054,85.19054054054054,421254
+Hawaii,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,14.960280000000001,14.959679999999999,59189
+Hawaii,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.1932727272727273,1.1923636363636363,1651
+Hawaii,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.49153488372093,97.45455813953488,385155
+Hawaii,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.587319587628866,1.5883505154639175,3232
+Hawaii,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.202766798418974,25.20237154150198,140262
+Hawaii,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,60.194787644787645,60.1949806949807,280903
+Hawaii,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.266465863453815,10.268273092369478,40993
+Hawaii,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.747418032786885,4.7459836065573775,18104
+Idaho,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,82.89872427983539,82.89794238683128,300023
+Idaho,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,17.006223175965665,17.006223175965665,46124
+Idaho,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.479642857142857,3.47875,6313
+Idaho,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,94.74597989949748,94.69929648241205,265728
+Idaho,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.6283333333333334,2.625128205128205,3271
+Idaho,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.01114406779661,24.007542372881353,90927
+Idaho,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,59.15316872427983,59.154197530864195,208992
+Idaho,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.781266968325792,11.781945701357465,33447
+Idaho,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.813857868020305,4.8130964467005075,11967
+Illinois,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,83.15146245059289,83.1506719367589,272288
+Illinois,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,17.06625,17.069166666666664,43277
+Illinois,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.6767796610169492,1.6759322033898307,1920
+Illinois,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.33444444444444,97.29823671497584,244931
+Illinois,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.7238983050847458,1.7247457627118643,1939
+Illinois,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.028916666666664,23.028708333333334,87248
+Illinois,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,60.727035573122535,60.72624505928854,184869
+Illinois,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.91491304347826,11.912304347826087,30077
+Illinois,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.4249758454106285,5.425942028985507,12739
+Indiana,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.18683018867924,77.17984905660377,482988
+Indiana,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,23.356535433070867,23.35614173228346,104288
+Indiana,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.6768613138686135,2.6783211678832117,8069
+Indiana,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.54351598173515,95.5163698630137,473196
+Indiana,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.099,2.099384615384616,6045
+Indiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.309147286821705,23.31108527131783,164664
+Indiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,54.243169811320755,54.24354716981132,318245
+Indiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,17.13204,17.131240000000002,77807
+Indiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.1082683982683985,6.109134199134199,26230
+Iowa,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,80.49269841269842,80.49488095238095,434424
+Iowa,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.71514170040486,19.714939271255062,75786
+Iowa,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.145777777777778,3.143925925925926,9460
+Iowa,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.37985436893204,95.33012135922328,411135
+Iowa,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.1505932203389833,2.1518644067796613,5629
+Iowa,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.320248962655604,23.31941908713693,140553
+Iowa,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.71170634920635,57.71170634920635,293751
+Iowa,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.468893617021276,14.468468085106384,56783
+Iowa,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.918009259259259,4.917777777777777,18568
+Kansas,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,79.64746212121213,79.6482196969697,842679
+Kansas,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,20.494787644787642,20.495173745173744,154254
+Kansas,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.5436746987951806,3.5451807228915664,23329
+Kansas,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,94.62922018348623,94.62126146788991,774076
+Kansas,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.171030303030303,2.1698181818181816,13001
+Kansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.078160919540228,23.079501915708814,270550
+Kansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,56.697916666666664,56.697916666666664,572091
+Kansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.890078125,14.89203125,114006
+Kansas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.685551020408163,5.685142857142857,40090
+Kentucky,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,73.11291338582677,73.11271653543307,428159
+Kentucky,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,27.123805668016193,27.122186234817814,116951
+Kentucky,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.4765625,4.4753125,13623
+Kentucky,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.00519230769231,92.95901442307692,398769
+Kentucky,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.835859375,2.8366406250000002,7943
+Kentucky,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.387791666666665,24.386125,151559
+Kentucky,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,49.17210317460318,49.171904761904756,276232
+Kentucky,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,21.141528925619834,21.142148760330578,90722
+Kentucky,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.792971698113207,5.794858490566038,25667
+Louisiana,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,76.87565217391305,76.87446640316206,303035
+Louisiana,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,23.340500000000002,23.342166666666667,69989
+Louisiana,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.377391304347826,3.376086956521739,5642
+Louisiana,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,94.5099033816425,94.48321256038648,246636
+Louisiana,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.574259259259259,2.5761111111111115,4030
+Louisiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,22.186129032258062,22.18693548387097,96970
+Louisiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,54.81588932806324,54.814505928853755,205979
+Louisiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.434612068965517,16.43655172413793,50587
+Louisiana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,7.077083333333333,7.07662037037037,19045
+Maine,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,78.06844621513945,78.05910358565737,553015
+Maine,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.325252100840334,22.32672268907563,97348
+Maine,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.5367692307692309,1.5375384615384613,3217
+Maine,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.88320388349514,96.76983009708738,507480
+Maine,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.5315277777777778,1.5329166666666665,3499
+Maine,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,30.14020661157025,30.141652892561986,228940
+Maine,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,48.448879999999996,48.450680000000006,323910
+Maine,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,17.487173913043478,17.48673913043478,74613
+Maine,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.5997,4.59845,22255
+Maryland,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,84.40330855018588,84.40386617100371,771196
+Maryland,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,15.638409090909091,15.638598484848485,105981
+Maryland,"Do you currently use chewing tobacco, snuff, or snus?",Every day,0.9525675675675676,0.9512162162162163,4085
+Maryland,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.02928251121075,97.99695067264574,737364
+Maryland,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.1647777777777777,1.162,4564
+Maryland,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,21.635509433962262,21.63494339622641,256913
+Maryland,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,62.88386617100371,62.88405204460967,514220
+Maryland,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.81910569105691,10.816869918699187,73634
+Maryland,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.017522123893805,5.017079646017699,31621
+Massachusetts,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,84.21209923664122,84.21267175572518,615040
+Massachusetts,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,15.941825396825397,15.941626984126984,98463
+Massachusetts,"Do you currently use chewing tobacco, snuff, or snus?",Every day,0.8095238095238095,0.8071428571428572,1299
+Massachusetts,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.73925925925926,97.69516203703705,460339
+Massachusetts,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.3407246376811595,1.3407246376811597,2913
+Massachusetts,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.24108527131783,24.24282945736434,221424
+Massachusetts,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,60.02492366412214,60.024732824427474,393564
+Massachusetts,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.14414937759336,11.144771784232365,69390
+Massachusetts,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.747733333333334,4.747066666666667,28590
+Michigan,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.43823970037452,77.43973782771536,531145
+Michigan,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.90869230769231,22.907923076923076,104568
+Michigan,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.9516535433070867,1.9496850393700786,6425
+Michigan,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.43343891402715,96.40031674208144,498940
+Michigan,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.8983846153846153,1.9003076923076923,6072
+Michigan,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.827662835249043,24.826513409961684,190267
+Michigan,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,52.9536329588015,52.951385767790256,340799
+Michigan,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.66251968503937,16.66192913385827,75226
+Michigan,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.2989655172413785,6.29551724137931,28964
+Minnesota,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.30936567164179,81.30955223880596,840677
+Minnesota,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.727811320754718,18.72743396226415,139594
+Minnesota,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.384679487179487,2.383717948717949,15370
+Minnesota,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.79396396396396,95.76997747747748,794644
+Minnesota,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.050440251572327,2.050754716981132,12674
+Minnesota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.43840909090909,24.438219696969696,283972
+Minnesota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,56.91477611940299,56.91608208955224,556638
+Minnesota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,13.21992277992278,13.221853281853281,98355
+Minnesota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.546586345381526,5.546787148594378,41030
+Mississippi,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.21153191489361,77.20968085106384,308199
+Mississippi,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.968289473684212,22.966315789473683,67647
+Mississippi,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.694585987261147,4.694585987261147,9579
+Mississippi,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,92.63321052631579,92.59952631578948,263515
+Mississippi,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.906842105263158,2.9038345864661657,6212
+Mississippi,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,21.34280701754386,21.342587719298244,90638
+Mississippi,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,56.04587234042553,56.04523404255319,217472
+Mississippi,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.477252252252253,16.47792792792793,48063
+Mississippi,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.496139534883722,6.49753488372093,19358
+Missouri,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,76.9068320610687,76.90166030534351,389535
+Missouri,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,23.580711462450594,23.581699604743083,87678
+Missouri,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.3583703703703702,3.359481481481482,9957
+Missouri,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,94.86388888888888,94.79217592592593,385733
+Missouri,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.160217391304348,2.1618478260869565,5016
+Missouri,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.308634538152614,24.309236947791163,135876
+Missouri,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,53.1688122605364,53.16804597701149,253436
+Missouri,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,17.902839506172842,17.9038683127572,66797
+Missouri,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.420045248868778,5.421176470588235,20414
+Montana,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,78.20349593495935,78.20349593495935,374215
+Montana,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,21.881810699588478,21.882016460905348,74227
+Montana,"Do you currently use chewing tobacco, snuff, or snus?",Every day,5.445182926829268,5.445792682926829,14577
+Montana,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,91.8180198019802,91.80673267326733,316522
+Montana,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.922962962962963,2.9229629629629628,6939
+Montana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,26.31142857142857,26.309183673469388,135123
+Montana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,51.90272357723577,51.901300813008135,239079
+Montana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,15.630630252100842,15.628319327731091,53425
+Montana,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.004840182648402,6.0046118721461195,20453
+Nebraska,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.23365019011408,81.22739543726235,939604
+Nebraska,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.12011811023622,19.121496062992122,161636
+Nebraska,"Do you currently use chewing tobacco, snuff, or snus?",Every day,3.0688198757763976,3.0703726708074535,25432
+Nebraska,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.04700460829494,95.01179723502304,800710
+Nebraska,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.2895705521472394,2.29079754601227,15435
+Nebraska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.183843137254904,23.1816862745098,292653
+Nebraska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,58.45007604562738,58.44969581749049,646868
+Nebraska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,13.737391304347826,13.737588932806325,119656
+Nebraska,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.227234042553192,5.22936170212766,41661
+Nevada,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.71436293436294,81.71312741312741,196481
+Nevada,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.647231404958678,18.64702479338843,38786
+Nevada,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.9791666666666667,1.9802083333333336,2125
+Nevada,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.06643192488264,97.001220657277,170525
+Nevada,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.9805405405405405,1.981891891891892,1283
+Nevada,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.569003984063745,23.56800796812749,70457
+Nevada,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,58.42505791505791,58.42254826254826,125927
+Nevada,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,12.55640350877193,12.555964912280702,27543
+Nevada,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.109166666666667,6.109444444444445,10178
+New Hampshire,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.06239837398374,81.04733739837398,342804
+New Hampshire,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.52081081081081,19.519459459459462,51189
+New Hampshire,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.31025,1.30775,1295
+New Hampshire,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.50780487804877,97.37429268292682,308411
+New Hampshire,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.2872222222222223,1.2886111111111112,1208
+New Hampshire,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,29.630960698689954,29.630305676855897,138731
+New Hampshire,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,52.524146341463414,52.524349593495934,203844
+New Hampshire,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.5978672985782,14.59644549763033,38012
+New Hampshire,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.667582417582418,4.667857142857143,12576
+New Jersey,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,84.87050632911392,84.87016877637132,527727
+New Jersey,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,15.318986784140968,15.319867841409692,83065
+New Jersey,"Do you currently use chewing tobacco, snuff, or snus?",Every day,0.6849999999999999,0.6796428571428572,976
+New Jersey,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.06722513089005,98.02447643979059,430881
+New Jersey,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.3623880597014926,1.3586567164179104,3032
+New Jersey,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.341688311688312,23.34190476190476,176692
+New Jersey,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,61.63860759493671,61.63966244725738,350944
+New Jersey,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.378651162790698,10.37772093023256,55390
+New Jersey,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.254271844660194,5.25621359223301,27207
+New Mexico,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.66740310077519,81.66102713178294,390728
+New Mexico,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.42391836734694,18.423714285714283,72250
+New Mexico,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.4647154471544717,2.4614634146341463,6715
+New Mexico,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.74471698113209,95.68478773584906,344538
+New Mexico,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.3211764705882354,2.3215966386554623,5152
+New Mexico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.563130081300812,24.56170731707317,133775
+New Mexico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.468953488372094,57.467209302325585,256790
+New Mexico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.693589743589744,11.694658119658119,48113
+New Mexico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.531484716157205,6.531921397379913,23808
+New York,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,84.59074906367042,84.59056179775281,899226
+New York,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,15.356007604562738,15.35619771863118,153778
+New York,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.0025,1.003,8911
+New York,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,97.4645701357466,97.43065610859729,954328
+New York,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.4761379310344827,1.4761379310344827,10191
+New York,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,22.499583333333334,22.50242424242424,307550
+New York,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,62.16966292134831,62.170973782771526,591627
+New York,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.081206225680933,10.084124513618676,108277
+New York,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.24,5.2404,45237
+North Carolina,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,80.57247148288974,80.56602661596958,364057
+North Carolina,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.90241106719368,19.903201581027666,74422
+North Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.805813953488372,2.8065891472868216,5753
+North Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.41884792626728,95.37541474654378,292751
+North Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.0770796460176992,2.0757522123893803,4394
+North Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.8384046692607,23.838210116731517,122917
+North Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,57.015665399239545,57.01699619771863,241091
+North Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.04322448979592,14.04322448979592,52693
+North Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.847639484978541,5.848712446351932,21425
+North Dakota,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.72315573770491,77.72110655737706,313660
+North Dakota,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.416150627615064,22.41468619246862,56380
+North Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.341732283464567,4.343307086614173,9535
+North Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.14885572139302,93.12221393034827,294870
+North Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Some days,3.072429906542056,3.0691588785046733,5339
+North Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.258008849557523,24.255353982300885,105854
+North Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,54.36695473251029,54.36551440329218,207590
+North Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.237333333333332,16.239555555555555,41153
+North Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.982864077669903,5.983349514563106,14752
+Ohio,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,76.24837735849057,76.24988679245283,629642
+Ohio,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,24.009173228346455,24.00700787401575,142988
+Ohio,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.703986928104575,2.703986928104575,14134
+Ohio,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.62840182648401,95.5771689497717,619450
+Ohio,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.069264705882353,2.0685294117647057,9059
+Ohio,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.404189723320158,23.404584980237154,212027
+Ohio,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,53.218901515151515,53.217954545454546,417334
+Ohio,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,18.4005577689243,18.402549800796812,109602
+Ohio,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.552844444444445,5.552622222222222,33006
+Oklahoma,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.78274131274131,77.7842277992278,352648
+Oklahoma,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.462086614173227,22.46070866141732,76486
+Oklahoma,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.50658064516129,4.506258064516129,10142
+Oklahoma,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.34892018779342,93.33704225352113,317460
+Oklahoma,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.9416030534351147,2.9431297709923667,5464
+Oklahoma,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.08448818897638,24.085866141732282,123012
+Oklahoma,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,53.972007722007724,53.970077220077215,229593
+Oklahoma,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,15.939015748031498,15.938228346456693,55776
+Oklahoma,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.541639344262295,6.542459016393442,20567
+Oregon,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,82.40104651162791,82.39963178294573,296777
+Oregon,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.079673469387757,18.07783673469388,47880
+Oregon,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.5844954128440367,2.5844954128440367,4600
+Oregon,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.11654205607476,96.06663551401869,270754
+Oregon,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.881025641025641,1.8803846153846155,2836
+Oregon,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,26.243588709677418,26.242782258064516,104484
+Oregon,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,56.72255813953488,56.7227519379845,192191
+Oregon,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,12.9273417721519,12.925021097046415,34203
+Oregon,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.035302325581395,5.03460465116279,13329
+Pennsylvania,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,79.72686274509803,79.72319607843136,457551
+Pennsylvania,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,20.750485829959512,20.752105263157894,95932
+Pennsylvania,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.7246666666666663,2.7225833333333336,7144
+Pennsylvania,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.9366985645933,95.90782296650718,359859
+Pennsylvania,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.0116216216216216,2.0093693693693693,4903
+Pennsylvania,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.4880081300813,24.4880081300813,156093
+Pennsylvania,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,55.67498039215687,55.67517647058824,301335
+Pennsylvania,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,15.22195020746888,15.221950207468879,70454
+Pennsylvania,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.586533333333334,5.584755555555556,25168
+Puerto Rico,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,89.18127962085308,89.1824644549763,316381
+Puerto Rico,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,10.864278846153846,10.865721153846154,31459
+Puerto Rico,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,99.26500000000001,99.23508720930232,271376
+Puerto Rico,"Do you currently use chewing tobacco, snuff, or snus?",Some days,0.9008333333333334,0.9008333333333333,671
+Puerto Rico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,17.88956730769231,17.892451923076923,65975
+Puerto Rico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,71.42881516587677,71.42668246445498,250365
+Puerto Rico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,7.783384615384615,7.785179487179486,21900
+Puerto Rico,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,3.42575,3.4248125000000003,8845
+Rhode Island,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,83.37742307692308,83.37253846153845,311702
+Rhode Island,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,16.961757322175732,16.961757322175732,49045
+Rhode Island,"Do you currently use chewing tobacco, snuff, or snus?",Every day,0.7707142857142858,0.7671428571428571,360
+Rhode Island,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.16717592592593,98.08210648148149,289489
+Rhode Island,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.2803333333333335,1.2786666666666666,947
+Rhode Island,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.85122950819672,25.850204918032787,118671
+Rhode Island,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,58.45042307692308,58.45138461538461,192838
+Rhode Island,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.782977777777779,11.7812,34236
+Rhode Island,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.12,5.1212820512820505,14048
+South Carolina,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,79.10950757575758,79.10789772727273,535584
+South Carolina,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,21.219409448818897,21.221574803149608,102744
+South Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.2247286821705425,2.223953488372093,6798
+South Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,95.92495412844036,95.8930504587156,478028
+South Carolina,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.0447014925373135,2.0447014925373135,6552
+South Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.394941634241246,24.393774319066146,189253
+South Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,55.102613636363635,55.10242424242424,346268
+South Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.779458333333334,14.781749999999999,70280
+South Carolina,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.603348017621146,6.6015859030837,31982
+South Dakota,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.61703252032521,77.61682926829269,370838
+South Dakota,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.71957264957265,22.719145299145296,74751
+South Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.499615384615384,4.498173076923077,9808
+South Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.54321782178218,93.46873762376237,335228
+South Dakota,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.6591304347826084,2.6627536231884057,4613
+South Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.721637168141594,25.720973451327435,129317
+South Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,52.79644897959184,52.79726530612245,241018
+South Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,15.115720720720722,15.115495495495495,51300
+South Dakota,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,7.221938775510204,7.222193877551021,22013
+Tennessee,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,76.4120634920635,76.40095238095239,276351
+Tennessee,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,23.687727272727273,23.686487603305785,69674
+Tennessee,"Do you currently use chewing tobacco, snuff, or snus?",Every day,4.109772727272727,4.111666666666666,7574
+Tennessee,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,93.79422330097087,93.75325242718446,260399
+Tennessee,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.7641000000000004,2.7651,4345
+Tennessee,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,23.816848739495796,23.816848739495796,93835
+Tennessee,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,53.41516,53.416560000000004,182296
+Tennessee,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,17.68986842105263,17.688114035087718,52166
+Tennessee,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.090341463414634,6.0891219512195125,16813
+Texas,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,83.6210902255639,83.61744360902256,645969
+Texas,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,16.481279999999998,16.47908,102045
+Texas,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.4372413793103447,2.438103448275862,10576
+Texas,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.08177272727274,96.0449090909091,589134
+Texas,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.9996551724137932,2.00051724137931,7801
+Texas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,20.76905882352941,20.768078431372547,192194
+Texas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,62.89161654135338,62.89142857142856,453449
+Texas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,10.271404958677685,10.270165289256198,67085
+Texas,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,6.034217391304347,6.035086956521738,34466
+Utah,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,88.84026819923372,88.8365325670498,674996
+Utah,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,11.112175732217572,11.112803347280334,59676
+Utah,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.721810344827586,1.7200862068965517,7979
+Utah,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.90855813953489,96.8433488372093,574766
+Utah,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.557089552238806,1.5563432835820894,6762
+Utah,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,17.058091286307054,17.05933609958506,129901
+Utah,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,72.25789272030651,72.25655172413792,544872
+Utah,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,7.110309734513274,7.110088495575221,41267
+Utah,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,3.5358823529411763,3.5347511312217192,18107
+Vermont,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,80.84417670682731,80.83803212851406,349454
+Vermont,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.560649350649353,19.562164502164503,53637
+Vermont,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.758709677419355,1.7562903225806452,2570
+Vermont,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.6390243902439,96.53263414634146,321617
+Vermont,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.7148333333333334,1.7165,2240
+Vermont,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,28.983760330578512,28.982520661157025,138167
+Vermont,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,52.189516129032256,52.188709677419354,211146
+Vermont,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,14.707276785714285,14.706383928571428,39609
+Vermont,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,4.5673298429319376,4.56890052356021,13524
+Virgin Islands,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,94.23116279069768,94.01139534883721,13771
+Virgin Islands,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,7.095,7.095000000000001,221
+Virgin Islands,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,98.20976744186045,97.94627906976744,14230
+Virgin Islands,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,12.388260869565217,12.388260869565217,1621
+Virgin Islands,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,83.95139534883721,83.8960465116279,11783
+Virgin Islands,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,5.27,5.2700000000000005,61
+Virgin Islands,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,2.89,2.89,30
+Virginia,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,81.96158490566037,81.9556037735849,473038
+Virginia,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,18.190313725490196,18.190117647058823,81385
+Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.2815151515151517,2.2788636363636363,7363
+Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.15762557077626,96.11853881278537,461863
+Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.91251968503937,1.9109448818897636,5900
+Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,22.240192307692308,22.240384615384617,153357
+Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,59.73569811320755,59.73475471698113,319616
+Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,12.779715447154471,12.780121951219513,57959
+Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.446,5.448173913043479,23046
+Washington,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,83.93831501831502,83.93648351648352,731153
+Washington,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,16.1256015037594,16.12860902255639,98714
+Washington,"Do you currently use chewing tobacco, snuff, or snus?",Every day,1.9235658914728682,1.9216279069767443,8790
+Washington,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.78017621145374,96.76629955947136,640831
+Washington,"Do you currently use chewing tobacco, snuff, or snus?",Some days,1.63448,1.6356799999999998,6476
+Washington,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.945,24.94481617647059,254406
+Washington,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,59.03421245421246,59.0332967032967,476740
+Washington,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,11.078339768339768,11.077953667953668,68830
+Washington,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.1285185185185185,5.1285185185185185,29557
+West Virginia,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,72.81210743801653,72.81314049586777,287186
+West Virginia,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,27.313708333333334,27.312666666666665,80178
+West Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Every day,6.446832298136647,6.4471428571428575,13953
+West Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,91.44586734693877,91.41183673469388,285958
+West Virginia,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.799777777777778,2.7979259259259264,5717
+West Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,24.4873640167364,24.49008368200837,101235
+West Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,48.41917355371901,48.418760330578515,185912
+West Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,22.04612765957447,22.046127659574466,64815
+West Virginia,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.08547619047619,5.082857142857143,15102
+Wisconsin,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,80.3836923076923,80.38055769230769,298972
+Wisconsin,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,19.886049382716052,19.88543209876543,54000
+Wisconsin,"Do you currently use chewing tobacco, snuff, or snus?",Every day,2.2869565217391306,2.286413043478261,4522
+Wisconsin,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,96.28532407407408,96.20314814814814,282382
+Wisconsin,"Do you currently use chewing tobacco, snuff, or snus?",Some days,2.2363636363636363,2.233766233766234,3424
+Wisconsin,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.538801652892563,25.53797520661157,105806
+Wisconsin,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,55.917470817120616,55.917665369649804,192811
+Wisconsin,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,13.736575342465754,13.735205479452055,38219
+Wisconsin,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.830926829268292,5.832146341463415,14789
+Wyoming,Adults who are current smokers (variable calculated from one or more BRFSS questions),No,77.96704166666667,77.9655625,282827
+Wyoming,Adults who are current smokers (variable calculated from one or more BRFSS questions),Yes,22.1575,22.15707627118644,49730
+Wyoming,"Do you currently use chewing tobacco, snuff, or snus?",Every day,6.3936029411764705,6.392867647058823,9692
+Wyoming,"Do you currently use chewing tobacco, snuff, or snus?",Not at all,90.92919191919192,90.90146464646465,242616
+Wyoming,"Do you currently use chewing tobacco, snuff, or snus?",Some days,3.5956989247311824,3.597311827956989,4000
+Wyoming,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Former smoker,25.478898678414097,25.47911894273128,100211
+Wyoming,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Never smoked,53.27970588235294,53.27802521008404,182405
+Wyoming,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke everyday,16.250220264317182,16.251541850220264,37336
+Wyoming,Four Level Smoking Status (variable calculated from one or more BRFSS questions),Smoke some days,5.406557377049181,5.4051912568306015,11689
